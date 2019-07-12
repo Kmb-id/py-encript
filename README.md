@@ -1,8 +1,8 @@
 # encript python
 # PYCRYPTORed
-Coded by : DERAY <br>
-GITHUB   : https://github.com/LOoLzeC<br>
-Lets go .....<br>
+<br>Coded by : DERAY
+<br>GITHUB   : https://github.com/LOoLzeC
+<br><b>Lets go .....</b><br>
 apt update && apt upgrade<br>
 git clone https://github.com/Kmb-id/py-encript<br>
 cd py-encript<br>

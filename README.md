@@ -8,4 +8,4 @@ git clone https://github.com/Kmb-id/py-encript<br>
 cd py-encript<br>
 python2 pycryptored.py<br>
 <br>
-# Recode: KMB.ID [ L4.ERROR ]
+# Reshare: KMB.ID [ L4.ERROR ]
